@@ -1,2 +1,2 @@
 # 6070-Practical-Programming
-# This is only for my final project for MSSP 6070
+# This is only for Wenjin's final project for MSSP 6070
