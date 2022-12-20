@@ -1,13 +1,19 @@
 # ML With Titanic
 
-###### Hi! This is JL@JiulingPeng and WJ's Final project for MSSP 6070: Practical Programming for Data Science ######
+#### Hi there! 
+#### This is J.L.[@JiulingPeng] and W.J.[LinearAlgeb]'s Final project for MSSP 6070: Practical Programming for Data Science #####
+#### Here we included Random Forest and XGBoost methods
 
 ***********
 Full python scripts: **Final Project.ipynb**
 
+Geojson file: **world.geojson**
+
 Datasets used for ML: **train.csv** and **test.csv**, from Kaggle Competition: https://www.kaggle.com/competitions/titanic
 
 Dataset used for calculating accuracy: **titanic3.csv**, from: https://hbiostat.org/data/repo/titanic3.xls
+
+Besides, when drawing the worldmap, we reorganized the names of the countries (For some historical reasons, the names or affiliations of certain regions have changed) in order to merge with geojson, see **w2.csv**
 
 ***********
 
