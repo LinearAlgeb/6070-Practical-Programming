@@ -1,7 +1,7 @@
 # ML With Titanic
 
 #### Hi there! 
-#### This is J.L.[@JiulingPeng] and W.J.[LinearAlgeb]'s Final project for MSSP 6070: Practical Programming for Data Science #####
+#### This is J.L.Peng[@JiulingPeng] and W.J.Liu[LinearAlgeb]'s Final project for MSSP 6070: Practical Programming for Data Science #####
 #### Here we included Random Forest and XGBoost models
 
 ***********
