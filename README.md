@@ -5,7 +5,7 @@
 #### Here we included Random Forest and XGBoost model
 
 ***********
-Full python scripts: **Final Project.ipynb**
+Full python scripts: **Final Project.ipynb** OR **Final Project.py**
 
 Geojson file: **world.geojson**
 
