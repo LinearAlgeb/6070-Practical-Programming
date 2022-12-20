@@ -19,7 +19,7 @@ Besides, when drawing the worldmap, we reorganized the names of the countries (F
 
 ### Data Dictionary
 
-| Varaible  | Definition | Key |
+| Variable  | Definition | Key |
 | ------------- | ------------- | ------------- |
 | **survival** | Survival | 0 = No, 1 = Yes | 
 | **pclass**	  |   Ticket class	| 1 = 1st, 2 = 2nd, 3 = 3rd| 
