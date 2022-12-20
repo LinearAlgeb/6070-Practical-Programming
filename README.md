@@ -11,7 +11,7 @@ Geojson file: **world.geojson**
 
 Datasets used for ML: **train.csv** and **test.csv**, from Kaggle Competition: https://www.kaggle.com/competitions/titanic
 
-Dataset used for calculating accuracy: **titanic3.csv**, from: https://hbiostat.org/data/repo/titanic3.xls
+Dataset used for calculating accuracy: **titanic3.xls**, from: https://hbiostat.org/data/repo/titanic3.xls
 
 Besides, when drawing the worldmap, we reorganized the names of the countries (For some historical reasons, the names or affiliations of certain regions have changed) in order to merge with geojson, see **w2.csv**
 
