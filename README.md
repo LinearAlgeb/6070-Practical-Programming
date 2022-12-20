@@ -1,2 +1,4 @@
-# 6070-Practical-Programming
-# This is only for Wenjin's final project for MSSP 6070
+# ML With Titanic
+
+###### Final project for MSSP 6070: Practical Programming for Data Science ######
+
