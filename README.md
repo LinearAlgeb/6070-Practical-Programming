@@ -1,6 +1,6 @@
 # ML With Titanic
 
-###### JL@JiulingPeng and WJ's Final project for MSSP 6070: Practical Programming for Data Science ######
+###### Hi! This is JL@JiulingPeng and WJ's Final project for MSSP 6070: Practical Programming for Data Science ######
 
 ***********
 Full python scripts: **Final Project.ipynb**
