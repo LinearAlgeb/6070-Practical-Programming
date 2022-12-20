@@ -7,7 +7,7 @@
 ***********
 Full python scripts: **Final Project.ipynb** OR **Final Project.py**
 
-Geojson file containing [existing] countries: **world.geojson**
+Geojson file containing [existing] countries or regions: **world.geojson**
 
 Datasets used for ML: **train.csv** and **test.csv**, from Kaggle Competition: https://www.kaggle.com/competitions/titanic
 
