@@ -5,7 +5,7 @@
 #### Here we included Random Forest and XGBoost models
 
 ***********
-Full python scripts: **Final Project.ipynb** OR **Final Project.py**
+Full python scripts: **Final Project.ipynb**
 
 Geojson file containing [existing] countries or regions: **world.geojson**
 
@@ -30,4 +30,4 @@ Besides, when drawing the worldmap, we reorganized the names of the countries (F
 | **ticket**	|     Ticket number	| | 
 | **fare**	   |    Passenger fare (Pounds)| | 
 | **cabin**	  |     Cabin number	| | 
-| **embarked**	|   Port of Embarkation| 	C = Cherbourg, Q = Queenstown, S = Southamp| 
+| **embarked**	|   Port of Embarkation| 	C = Cherbourg, Q = Queenstown, S = Southampton| 
