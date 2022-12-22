@@ -1,8 +1,8 @@
 # Machine Learning With Titanic
 
 #### Hi there! 
-#### This is J.L.Peng[@JiulingPeng] and W.J.Liu[LinearAlgeb]'s Final project for MSSP 6070: Practical Programming for Data Science #####
-#### Here we included Random Forest and XGBoost models
+#### This is J.L.Peng[@JiulingPeng] and W.J.Liu[LinearAlgeb]'s Final project for MSSP 6070: Practical Programming for Data Science. #####
+#### Here we included Random Forest and XGBoost models.
 
 ***********
 Full python scripts: **Final Project.ipynb**
