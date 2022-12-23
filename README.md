@@ -2,10 +2,10 @@
 
 #### Hi there! 
 #### This is J.L.Peng[@JiulingPeng] and W.J.Liu[@LinearAlgeb]'s Final project for MSSP 6070: Practical Programming for Data Science. #####
-#### Here we included Random Forest and XGBoost models.
+#### Here we included Random Forest and XGBoost models to predict the survival status of passengers on Titanic.
 
 ***********
-Full python scripts: **Final Project.ipynb**
+Full python scripts: **Final_Project.ipynb**
 
 Geojson file containing [existing] countries or regions: **world.geojson**
 
